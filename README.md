@@ -1,25 +1,26 @@
-# Gabriel Dias Rocca - Portfólio Profissional
-
-## Sobre Mim
-Sou um profissional de comunicação e planejamento estratégico, com foco em estratégias de comunicação, tecnologia e de negócios.
-
-## Competências
-- Planejamento estratégico 360
-- Storytelling de marcas
-- Análise de dados e performance
-- Excel: Avançado
-- Power Point: Avançado
-- Power BI: Intermediário
-- Looker Studio: Intermediário
-- SQL Server: Básico
-
-## Projetos Destacados
-1. **Estratégia e Planejamento de DOOH Solar Inteligente para a EDP Brasil**: Desenvolvi um painel LED com iluminação verde para promover a segurança pública e atrair investidores para a EDP Brasil. [Ver mais](./media/Projeto_DOOH%20Solar%20Inteligente_EDP%20B2C.pdf)
-2. **Análise de Mercado para PepsiCo**: Conduzi uma análise de cenário sobre a tendência de nostalgia e revival dos anos 2000 para lançar um hit com ritmo funk carioca.
+## Portfólio de Projetos
+Clique na pasta <a href="https://github.com/gabrielrocca369/portfolio/blob/main/Portfolio_Gabriel%20Dias%20Rocca.html"><strong>Portfolio_Gabriel Dias Rocca.html</strong></a> para acessar o link no GetHub. Ao lado direito superior da página você verá três botões - procure pelo terceiro ícone, <strong>Download raw file</strong> - então, basta <strong>abrir o arquivo no seu navegador preferido</strong>.
 
 ## Contato
 - 📧 Email: [gdrocca1@gmail.com](mailto:gdrocca1@gmail.com)
-- 📱 Telefone: [11-99855-4378](tel:+5511998554378)
+- 📱 Telefone: [11-99855-4378](tel:5511998554378)
 
 ## Como Usar Este Repositório
 Este repositório contém o código HTML para o meu portfólio online. Você pode clonar este repositório para visualizar o código ou fazer melhorias. Se você encontrar algum problema ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue ou fazer um pull request.
+
+# Gabriel Dias Rocca - Portfólio Profissional
+
+## Sobre mim
+Sou um profissional de marketing e planejamento estratégico, com foco em estratégias de comunicação, tecnologia e de negócios.
+
+## Competências e Habilidades
+- Planejamento estratégico 360
+- Storytelling de marcas
+- Análise de dados e performance
+- Excel Office: Avançado
+- Power Point: Avançado
+- Power BI: Intermediário
+- Looker Studio: Intermediário
+- CSS / HTML: Intermediário
+- SQL Server: Básico
+- Python: Básico
