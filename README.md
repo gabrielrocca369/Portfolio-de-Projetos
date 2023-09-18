@@ -14,7 +14,7 @@ Sou um profissional de comunicação e planejamento estratégico, com foco em es
 - SQL Server: Básico
 
 ## Projetos Destacados
-1. **Estratégia e Planejamento de DOOH Solar Inteligente para a EDP Brasil**: Desenvolvi um painel LED com iluminação verde para promover a segurança pública e atrair investidores para a EDP Brasil. [Ver mais](media/Projeto_DOOH_Solar_Inteligente_EDP_B2C.pdf)
+1. **Estratégia e Planejamento de DOOH Solar Inteligente para a EDP Brasil**: Desenvolvi um painel LED com iluminação verde para promover a segurança pública e atrair investidores para a EDP Brasil. [Ver mais](media/Projeto_ DOOH Solar Inteligente_EDP B2C.pdf)
 2. **Análise de Mercado para PepsiCo**: Conduzi uma análise de cenário sobre a tendência de nostalgia e revival dos anos 2000 para lançar um hit com ritmo funk carioca.
 
 ## Contato
