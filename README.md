@@ -1,7 +1,7 @@
 # Gabriel Dias Rocca - Portfólio Profissional
 
 ## Sobre Mim
-Sou um profissional de comunicação e planejamento estratégico, com foco em estratégias de comunicação, tecnologia e de negócios.
+Sou um profissional de marketing e planejamento estratégico, com foco em estratégias de comunicação, tecnologia e de negócios.
 
 ## Competências
 - Planejamento estratégico 360
@@ -11,7 +11,9 @@ Sou um profissional de comunicação e planejamento estratégico, com foco em es
 - Power Point: Avançado
 - Power BI: Intermediário
 - Looker Studio: Intermediário
+- CSS / HTML: Intermediário
 - SQL Server: Básico
+- Python: Básico
 
 ## Projetos Destacados
 1. **Estratégia e Planejamento de DOOH Solar Inteligente para a EDP Brasil**: Desenvolvi um painel LED com iluminação verde para promover a segurança pública e atrair investidores para a EDP Brasil. [Ver mais](./media/Projeto_DOOH%20Solar%20Inteligente_EDP%20B2C.pdf)
