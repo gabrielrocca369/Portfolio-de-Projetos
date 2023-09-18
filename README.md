@@ -1,26 +1,32 @@
-## Portfólio de Projetos
-Clique na pasta <a href="https://github.com/gabrielrocca369/portfolio/blob/main/Portfolio_Gabriel%20Dias%20Rocca.html"><strong>Portfolio_Gabriel Dias Rocca.html</strong></a> para acessar o link no GetHub. Ao lado direito superior da página você verá três botões - procure pelo terceiro ícone, <strong>Download raw file</strong> - então, basta <strong>abrir o arquivo no seu navegador preferido</strong>.
+# Portfólio Profissional - Gabriel Dias Rocca
 
-## Contato
-- 📧 Email: [gdrocca1@gmail.com](mailto:gdrocca1@gmail.com)
-- 📱 Telefone: [11-99855-4378](tel:5511998554378)
+## 🌐 Acesso Rápido
+Para acessar meu portfólio, clique [aqui](https://github.com/gabrielrocca369/portfolio/blob/main/Portfolio_Gabriel%20Dias%20Rocca.html) e siga os seguintes passos:
+1. No canto superior direito da página, localize os três botões.
+2. Clique no terceiro ícone, que diz "Download raw file".
+3. Abra o arquivo baixado com o seu navegador de preferência.
 
-## Como Usar Este Repositório
-Este repositório contém o código HTML para o meu portfólio online. Você pode clonar este repositório para visualizar o código ou fazer melhorias. Se você encontrar algum problema ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue ou fazer um pull request.
+## 📞 Contato e WhatsApp
+- **Email**: [gdrocca1@gmail.com](mailto:gdrocca1@gmail.com)
+- **Telefone**: [11-99855-4378](tel:+5511998554378)
 
-# Gabriel Dias Rocca - Portfólio Profissional
+## 🛠 Como Usar Este Repositório
+Este repositório hospeda o código HTML do meu portfólio online. Sinta-se à vontade para clonar, examinar o código ou até mesmo fazer melhorias. Caso encontre algum problema ou tenha alguma sugestão, abra uma _issue_ ou faça um _pull request_.
 
-## Sobre mim
-Sou um profissional de marketing e planejamento estratégico, com foco em estratégias de comunicação, tecnologia e de negócios.
+## 👤 Sobre Mim
+Sou um profissional especializado em marketing e planejamento estratégico, com um foco particular em estratégias de comunicação, tecnologia e negócios.
 
-## Competências e Habilidades
-- Planejamento estratégico 360
-- Storytelling de marcas
-- Análise de dados e performance
-- Excel Office: Avançado
-- Power Point: Avançado
-- Power BI: Intermediário
-- Looker Studio: Intermediário
-- CSS / HTML: Intermediário
-- SQL Server: Básico
-- Python: Básico
+## 🌟 Competências e Habilidades
+- **Planejamento Estratégico 360**
+- **Storytelling de Marcas**
+- **Análise de Dados e Performance**
+- **Excel Office**: Avançado
+- **Power Point**: Avançado
+- **Power BI**: Intermediário
+- **Looker Studio**: Intermediário
+- **CSS / HTML**: Intermediário
+- **SQL Server**: Básico
+- **Python**: Básico
+
+## 📜 Licença
+Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo [`LICENSE.md`](https://github.com/gabrielrocca369/portfolio/blob/main/LICENSE.md).
