@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <meta charset="UTF-8">
   <title>Gabriel Dias Rocca - Portfólio</title>
   <style>
@@ -21,14 +25,63 @@
     section {
       background-color: #f1f1f1;
     }
+    h3 {
+    font-weight: bold;  /* Adicionado aqui */
+  }
+        /* Novo estilo para as imagens do carrossel */
+        .carousel-image {
+      width: 1100px;  /* Largura fixa */
+      height: 500px; /* Altura fixa */
+      object-fit: contain; /* Mantém toda a imagem visível */
+    }
+    .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black !important;
+  /* ou use 'background-image' para um ícone personalizado */
+}
+
+/* Se as setas forem feitas usando bordas, você pode usar algo assim: */
+.carousel-control-prev-icon {
+  border-left-color: black !important;
+  border-bottom-color: black !important;
+}
+
+.carousel-control-next-icon {
+  border-right-color: black !important;
+  border-top-color: black !important;
+}
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-text {
+  /* Estilos para o texto do cabeçalho */
+}
+
+.header-contact {
+  text-align: right;
+  /* Outros estilos, se necessário */
+}
+
   </style>
 </head>
 <body>
 
   <!-- Cabeçalho -->
   <header>
-    <h1>Gabriel Dias Rocca</h1>
-    <p>Profissional de Marketing e Planejamento Estratégico</p>
+    <div class="header-content">
+      <div class="header-text">
+        <h1>Gabriel Dias Rocca</h1>
+        <p>Profissional de Marketing e Planejamento Estratégico</p>
+      </div>
+      <div class="header-contact">
+        <p>Email: <a href="mailto:gdrocca1@gmail.com"></a>gdrocca1@gmail.com</p>
+        <p>Telefone: <a href="tel:+5511998554378"></a>+55 11 99855-4378</p>
+        <!-- Adicione mais informações de contato aqui -->
+      </div>
+    </div>
   </header>
 
   <!-- Sobre Mim -->
@@ -56,7 +109,36 @@
     <article>
       <h3>Projeto 1: Estratégia e Planejamento de Campanha para EDP Brasil</h3>
       <p>Desenvolvi um painel LED com iluminação verde para promover a segurança pública e atrair investidores para a EDP Brasil.</p>
-      <a href="media/Projeto_ DOOH Solar Inteligente_EDP B2C.pdf" target="_blank">Baixar Projeto 1 (PDF)</a>
+      <div id="meuCarrossel" class="carousel slide" data-ride="carousel">
+        <!-- Indicadores -->
+        <ul class="carousel-indicators">
+          <li data-target="#meuCarrossel" data-slide-to="0" class="active"></li>
+          <li data-target="#meuCarrossel" data-slide-to="1"></li>
+          <li data-target="#meuCarrossel" data-slide-to="2"></li>
+        </ul>
+        
+        <!-- Slides -->
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="media/dooh solar_000.jpg" alt="DOOH Solar Inteligente - Totem 1" class="d-block w-100 carousel-image">
+          </div>
+          <div class="carousel-item">
+            <img src="media/dooh solar_001.jpg" alt="DOOH Solar Inteligente - Totem 2" class="d-block w-100 carousel-image">
+          </div>
+          <div class="carousel-item">
+            <img src="media/dooh solar_002.jpg" alt="DOOH Solar Inteligente - Ponto de ônibus" class="d-block w-100 carousel-image">
+          </div>
+        </div>
+        
+        <!-- Botões de Navegação -->
+        <a class="carousel-control-prev" href="#meuCarrossel" data-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#meuCarrossel" data-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </a>
+      </div>
+      <a href="media/Projeto_ DOOH Solar Inteligente_EDP B2C.pdf" target="_blank" style="margin-bottom: 20px;">Ver Projeto 1 completo (PDF)</a>
     </article>
     <!-- Projeto 2 -->
     <article>
