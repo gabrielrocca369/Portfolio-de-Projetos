@@ -23,6 +23,3 @@ Sou um profissional de comunicação e planejamento estratégico, com foco em es
 
 ## Como Usar Este Repositório
 Este repositório contém o código HTML para o meu portfólio online. Você pode clonar este repositório para visualizar o código ou fazer melhorias. Se você encontrar algum problema ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue ou fazer um pull request.
-
-## Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
