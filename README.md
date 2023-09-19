@@ -8,7 +8,7 @@ Para acessar meu portfólio, clique [aqui](https://github.com/gabrielrocca369/po
 
 ## 📞 Contato e WhatsApp
 - **Email**: [gdrocca1@gmail.com](mailto:gdrocca1@gmail.com)
-- **Telefone**: [11-99855-4378](tel:+5511998554378)
+- **Telefone**: [11-99855-4378](tel:5511998554378)
 
 ## 🛠 Como Usar Este Repositório
 Este repositório hospeda o código HTML do meu portfólio online. Sinta-se à vontade para clonar, examinar o código ou até mesmo fazer melhorias. Caso encontre algum problema ou tenha alguma sugestão, abra uma _issue_ ou faça um _pull request_.
